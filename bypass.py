@@ -1,11 +1,13 @@
 import os , pyfiglet , time
 
-os.system("clear")                                                                      os.system("clear")
+os.system("clear")
+os.system("clear")
 os.system("clear")
 
 class color :
 
-          YELL = '\033[93m '                                                                      GREEN = '\033[92m '
+          YELL = '\033[93m '
+          GREEN = '\033[92m '
           BLUE ='\033[94m '
           END = '\033[0m'
 
